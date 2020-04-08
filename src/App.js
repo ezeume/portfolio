@@ -12,12 +12,12 @@ function App() {
   <>
   <Header />
   <About />
-  <Project title="Food Finder"/>
-  <Project title="Car Amplify"/>
+  <Project />
+  {/* <Project title="Car Amplify"/>
   <Project title="Team Generator"/>
   <Project title="Food Finder"/>
   <Project title="Car Amplify"/>
-  <Project title="Team Generator"/>
+  <Project title="Team Generator"/> */}
   <Contact />
   <Footer />
   </>

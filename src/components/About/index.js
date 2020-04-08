@@ -3,23 +3,23 @@ import "../About/style.css";
 
 function About() {
   return (
-    <div class="card mb-3">
-      <div class="row no-gutters">
-        <div class="col-md-4">
-          <img src="..." class="card-img" alt="..." />
+    <div className="card mb-3">
+      <div className="row no-gutters">
+        <div className="col-md-4">
+          <img src="..." className="card-img" alt="..." />
         </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title">About me</h5>
-            <p class="card-text">
+        <div className="col-md-7">
+          <div className="card-body">
+            <h5 className="card-title" id="about">About me</h5>
+            <p className="card-text">
               My name is Nelson Ezeume. I am originally from Nigeria and
               currently living in Norristown, Pennsylvania. I am a self taught,
               design thinking Front-end developer. I have a bachelors degree in
               Industrial physics from the University of science and technology
               Enugu, Nigeria..
             </p>
-            <p class="card-text">
-              <small class="text-muted">
+            <p className="card-text">
+              <small className="text-muted">
                 I am currently enrolled in University of Pennsylvania LPS
                 Full-stack development bootcamp. I am very familiar and
                 experienced with Web application frameworks and have worked with

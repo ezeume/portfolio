@@ -1,6 +1,8 @@
 import React from "react";
 import "../Header/style.css";
 
+
+
 function Header() {
   return (
     <div>
@@ -9,29 +11,24 @@ function Header() {
       </header>
       <div className="card text-center">
         <div className="card-header">
-          <ul className="nav nav-pills card-header-pills">
-            <li className="nav-item">
-              <a className="nav-link active" href="/">
+          <ul class="nav justify-content-end">
+            <li class="nav-item">
+              <a class="nav-link active" href="#">
                 Active
               </a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link active" href="/">
-                Active
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="/">
+            <li class="nav-item">
+              <a class="nav-link" href="#">
                 Link
               </a>
             </li>
-            <li className="nav-item">
-              <a
-                className="nav-link disabled"
-                href="#"
-                tabindex="-1"
-                aria-disabled="true"
-              >
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                Link
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
                 Disabled
               </a>
             </li>
