@@ -14,22 +14,22 @@ function Header() {
           <ul class="nav justify-content-end">
             <li class="nav-item">
               <a class="nav-link active" href="#">
-                Active
+                About
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">
-                Link
+                LinkedIn
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">
-                Link
+                GitHub
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">
-                Disabled
+                Resume
               </a>
             </li>
           </ul>
