@@ -12,7 +12,7 @@ function About() {
     <div className="card mb-3">
       <div className="row no-gutters">
         <div className="col-md-4">
-          <img src={require("../../Images/me.jpg")} className="card-img" alt="..." />
+          <img src={require("../../Images/me.jpg")} className="card-img" alt="Me" />
         </div>
         <div className="col-md-6">
           <div className="card-body">
