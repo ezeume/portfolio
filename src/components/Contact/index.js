@@ -1,14 +1,10 @@
 import React from "react";
 import "./style.css";
 
+
 function Contact() {
   return (
     <>
-            <div class="row">
-                  <div class="col-12">
-                  <a href="..." className="subheader-text"><h2>CONTACT</h2></a>
-                  </div>
-            </div> 
             
             <div class="row">
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 mb-4">
