@@ -6,17 +6,17 @@ function About() {
     <>
     <div className="row">
         <div className="col-12">
-          <h2 className="subheader-text" id="about">About me</h2>
+          
         </div>
       </div>
-    <div className="card mb-3">
+    <div className="card mb-4">
       <div className="row no-gutters">
         <div className="col-md-4">
           <img src={require("../../Images/me.jpg")} className="card-img" alt="Me" />
         </div>
-        <div className="col-md-6">
+        <div className="col-md-8">
           <div className="card-body">
-            {/* <h5 className="card-title" id="about">About me</h5> */}
+            <h5 className="card-title" id="about">About me</h5> 
             <p className="card-text1" id="sub1">
               My name is Nelson Ezeume. I am originally from Nigeria and
               currently living in Norristown, Pennsylvania. I am a self taught,
@@ -38,6 +38,11 @@ function About() {
         </div>
       </div>
     </div>
+    <div className="row">
+        <div className="col-12">
+          <a href="..." className="subheader-text"><h2>PROJECTS</h2></a>
+        </div>
+      </div>
     </>
   );
 }
