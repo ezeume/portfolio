@@ -1,5 +1,6 @@
 import React from "react";
 import "../About/style.css";
+import {Link} from "react-router-dom"
 
 function About() {
   return (
@@ -40,7 +41,7 @@ function About() {
     </div>
     <div className="row">
         <div className="col-12">
-          <a href="..." className="subheader-text"><h2>PROJECTS</h2></a>
+          <Link to="/Project">PROJECTS</Link>
         </div>
       </div>
     </>
