@@ -4,7 +4,7 @@ import "./style.css";
 
 function Contact() {
   return (
-    <>
+    <div className="contactDiv">
             
             <div class="row">
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 mb-4">
@@ -34,7 +34,7 @@ function Contact() {
                 </div>
 
             </div>
-    </>
+    </div>
   )
 }
 

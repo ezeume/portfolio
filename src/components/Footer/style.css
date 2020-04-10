@@ -1,9 +1,13 @@
-footer {
+.footer {
     background-color: rgb(12, 12, 51);
     color: white;
     font-size: 20px;
     text-align: center;
-    height: 60px;
-    justify-content: bottom;
+    padding-top: 20px;
+    height: 80px;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
     
 }

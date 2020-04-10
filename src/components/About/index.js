@@ -43,18 +43,21 @@ function About() {
           </div>
         </div>
       </div>
-      <div className="row">
+      <div>
+        {" "}
+      </div>
+      {/* <div className="row">
         <div className="col-12">
-          <Link to="/Project" id="link">
+          <button className="link"><Link to="/Project">
             PROJECTS
-          </Link>
+          </Link></button>
         </div>
         <div>
-          <Link to="/Contact" id="link">
+          <button className="link"><Link to="/Contact">
             CONTACT
-          </Link>
+          </Link></button>
         </div>
-      </div>
+      </div> */}
     </>
   );
 }
