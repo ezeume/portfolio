@@ -11,7 +11,6 @@ function App() {
     <Router>
       <div>
         <Header />
-        {/* <About /> */}
         <Switch>
         <Route exact path="/" component={About} />
         <Route exact path="/Project" component={Project} />
