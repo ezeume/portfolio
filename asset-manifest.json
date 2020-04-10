@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.409cbe37.chunk.css",
+    "main.js": "/portfolio/static/js/main.f07a6fe6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f07a6fe6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b37861ed.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b37861ed.js.map",
+    "static/js/2.56a3e764.chunk.js": "/portfolio/static/js/2.56a3e764.chunk.js",
+    "static/js/2.56a3e764.chunk.js.map": "/portfolio/static/js/2.56a3e764.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.4bc7d99d5b4662f59f24cebe6a69e665.js": "/portfolio/precache-manifest.4bc7d99d5b4662f59f24cebe6a69e665.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.409cbe37.chunk.css.map": "/portfolio/static/css/main.409cbe37.chunk.css.map",
+    "static/js/2.56a3e764.chunk.js.LICENSE.txt": "/portfolio/static/js/2.56a3e764.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/portfolio/static/media/burger.cd33cf27.png",
+    "static/media/carApp.jpg": "/portfolio/static/media/carApp.083bbc84.jpg",
+    "static/media/empdirectory.jpg": "/portfolio/static/media/empdirectory.07d6256a.jpg",
+    "static/media/foodfinder.jpg": "/portfolio/static/media/foodfinder.382779d1.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.9310a3ed.jpg",
+    "static/media/team-gen.jpg": "/portfolio/static/media/team-gen.97aeb261.jpg",
+    "static/media/workout.jpg": "/portfolio/static/media/workout.1ca9d1ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37861ed.js",
+    "static/js/2.56a3e764.chunk.js",
+    "static/css/main.409cbe37.chunk.css",
+    "static/js/main.f07a6fe6.chunk.js"
+  ]
+}
