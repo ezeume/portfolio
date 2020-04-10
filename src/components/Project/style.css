@@ -2,5 +2,15 @@
     text-align: center;
 }
 .projectDiv{
-    background:  #ECEFF1;
+    background: #ECEFF1;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+
+#row1{
+    margin-left: 170px;
+}
+#row3{
+    margin-left: 170px;
+    padding-top: 20px;
 }

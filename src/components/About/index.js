@@ -46,18 +46,6 @@ function About() {
       <div>
         {" "}
       </div>
-      {/* <div className="row">
-        <div className="col-12">
-          <button className="link"><Link to="/Project">
-            PROJECTS
-          </Link></button>
-        </div>
-        <div>
-          <button className="link"><Link to="/Contact">
-            CONTACT
-          </Link></button>
-        </div>
-      </div> */}
     </>
   );
 }
