@@ -5,7 +5,7 @@ function Project() {
   return (
     <div className="projectDiv container">
       <div className="row" id="row1">
-        <div className="card col-lg-4 col-12 p-0 mt-4 mx-4">
+        <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/foodfinder.jpg")}
             className="card-img-top"
@@ -30,7 +30,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="card col-lg-4 col-12 p-0 mt-4 mx-4">
+        <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/carApp.jpg")}
             className="card-img-top"
@@ -57,7 +57,7 @@ function Project() {
       </div>
 
       <div className="row" id="row1">
-        <div className="card col-lg-4 col-12 p-0 mt-4 mx-4">
+        <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/team-gen.jpg")}
             className="card-img-top"
@@ -82,7 +82,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="card col-lg-4 col-12 p-0 mt-4 mx-4">
+        <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/burger.png")}
             className="card-img-top"
@@ -109,7 +109,7 @@ function Project() {
       </div>
 
       <div className="row" id="row3">
-        <div className="card col-lg-4 col-12 p-0 mt-4 mx-4">
+        <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/empdirectory.jpg")}
             className="card-img-top"
@@ -134,7 +134,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="card col-lg-4 col-12 p-0 mt-4 mx-4">
+        <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/workout.jpg")}
             className="card-img-top"

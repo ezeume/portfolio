@@ -6,10 +6,12 @@
     margin-top: 30px;
     margin-bottom: 80px;
 }
-
-#row1{
-    margin-left: 170px;
+@media screen and (min-width: 700px){
+    #row1{
+        margin-left: 17git 0px;
+    }
 }
+
 #row3{
     margin-left: 170px;
     padding-top: 20px;
