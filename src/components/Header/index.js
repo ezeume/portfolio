@@ -17,12 +17,12 @@ function Header() {
               </Link>
             </li>
             <li className="nav-item active">
-              <Link className="nav-link" to="Project">
+              <Link className="nav-link" to="/project">
                 Projects <span className="sr-only">(current)</span>
               </Link>
             </li>
             <li className="nav-item active">
-              <Link className="nav-link" to="Contact">
+              <Link className="nav-link" to="/contact">
                 Contact <span className="sr-only">(current)</span>
               </Link>
             </li>
