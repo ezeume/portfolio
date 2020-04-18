@@ -9,21 +9,21 @@ function Project() {
 
         <div className="card col-lg-4 col-12 mb-4 mx-4">
           <img
-            src={require("../../Images/foodfinder.jpg")}
+            src={require("../../Images/tossup.jpg")}
             className="card-img-top"
-            alt="FoodApp"
+            alt="Tossup"
           />
           <div className="card-body">
-            <h5 className="card-title">Food Finder</h5>
+            <h5 className="card-title">Tossup</h5>
             <a
-              href="https://ezeume.github.io/FoodFinder/"
+              href="https://evening-waters-26047.herokuapp.com/"
               target="_blank"
               className="btn btn-primary"
             >
               Demo
             </a>{" "}
             <a
-              href="https://github.com/ezeume/FoodFinder"
+              href="https://github.com/ezeume/Tossup"
               target="_blank"
               className="btn btn-primary"
             >
@@ -56,26 +56,28 @@ function Project() {
             </a>
           </div>
         </div>
+
       </div>
 
       <div className="row" id="row1">
-        <div className="card col-lg-4 col-12 mb-4 mx-4">
+
+      <div className="card col-lg-4 col-12 mb-4 mx-4">
           <img
-            src={require("../../Images/team-gen.jpg")}
+            src={require("../../Images/foodfinder.jpg")}
             className="card-img-top"
-            alt="TeamGen"
+            alt="FoodApp"
           />
           <div className="card-body">
-            <h5 className="card-title">Team Generator</h5>
+            <h5 className="card-title">Food Finder</h5>
             <a
-              href="https://youtu.be/AFBQUwSQM1o"
+              href="https://ezeume.github.io/FoodFinder/"
               target="_blank"
               className="btn btn-primary"
             >
               Demo
             </a>{" "}
             <a
-              href="https://github.com/ezeume/team-generator"
+              href="https://github.com/ezeume/FoodFinder"
               target="_blank"
               className="btn btn-primary"
             >
@@ -84,33 +86,6 @@ function Project() {
           </div>
         </div>
 
-        <div className="card col-lg-4 col-12 mb-4 mx-4">
-          <img
-            src={require("../../Images/burger.png")}
-            className="card-img-top"
-            alt="Burger logger"
-          />
-          <div className="card-body">
-            <h5 className="card-title">Burger logger</h5>
-            <a
-              href="https://burger-logger-application.herokuapp.com/"
-              target="_blank"
-              className="btn btn-primary"
-            >
-              Demo
-            </a>{" "}
-            <a
-              href="https://github.com/ezeume/Burger-logger"
-              target="_blank"
-              className="btn btn-primary"
-            >
-              GitHub
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div className="row" id="row1">
         <div className="card col-lg-4 col-12 mx-4">
           <img
             src={require("../../Images/empdirectory.jpg")}
@@ -128,6 +103,35 @@ function Project() {
             </a>{" "}
             <a
               href="https://github.com/ezeume/employee-directory"
+              target="_blank"
+              className="btn btn-primary"
+            >
+              GitHub
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <div className="row" id="row1">
+
+      <div className="card col-lg-4 col-12 mb-4 mx-4">
+          <img
+            src={require("../../Images/team-gen.jpg")}
+            className="card-img-top"
+            alt="TeamGen"
+          />
+          <div className="card-body">
+            <h5 className="card-title">Team Generator</h5>
+            <a
+              href="https://youtu.be/AFBQUwSQM1o"
+              target="_blank"
+              className="btn btn-primary"
+            >
+              Demo
+            </a>{" "}
+            <a
+              href="https://github.com/ezeume/team-generator"
               target="_blank"
               className="btn btn-primary"
             >
