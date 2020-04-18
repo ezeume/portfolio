@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "107202d98e9a7538f87cb33af195e20d",
+    "revision": "0574a426f747265dc53823152e2aaf36",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "9d2a59a9ef7b18670b6d",
+    "revision": "bf628b24e89cf82014df",
     "url": "/portfolio/static/css/main.f79914a0.chunk.css"
   },
   {
@@ -16,24 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.83d5ace2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d2a59a9ef7b18670b6d",
-    "url": "/portfolio/static/js/main.0ad7d205.chunk.js"
+    "revision": "bf628b24e89cf82014df",
+    "url": "/portfolio/static/js/main.02bf3c26.chunk.js"
   },
   {
     "revision": "1e74db4740f99c68a0bf",
     "url": "/portfolio/static/js/runtime-main.b37861ed.js"
   },
   {
-    "revision": "cd33cf27412439382fbc0b790987b224",
-    "url": "/portfolio/static/media/burger.cd33cf27.png"
-  },
-  {
     "revision": "083bbc8455113a8b1b1fd269dc518524",
     "url": "/portfolio/static/media/carApp.083bbc84.jpg"
   },
   {
-    "revision": "07d6256ad9297deec4806a1f86a91862",
-    "url": "/portfolio/static/media/empdirectory.07d6256a.jpg"
+    "revision": "c5eec914e3e6e6de4bc06458375d4548",
+    "url": "/portfolio/static/media/empdirectory.c5eec914.jpg"
   },
   {
     "revision": "382779d1a66b40b3455ca537ae94e4b5",
@@ -48,7 +44,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/team-gen.97aeb261.jpg"
   },
   {
-    "revision": "1ca9d1adaf27d97aea88540248fd3533",
-    "url": "/portfolio/static/media/workout.1ca9d1ad.jpg"
+    "revision": "61eb90e512c70b8346719366191b817f",
+    "url": "/portfolio/static/media/tossup.61eb90e5.jpg"
+  },
+  {
+    "revision": "f8dbb75aabd16378e2538e9cc1d879e8",
+    "url": "/portfolio/static/media/workout.f8dbb75a.jpg"
   }
 ]);
