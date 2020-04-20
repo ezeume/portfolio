@@ -2,7 +2,6 @@
     text-align: center;
 }
 .projectDiv{
-    background: #ECEFF1;
     margin-top: 30px;
     margin-bottom: 80px;
 }
@@ -11,17 +10,8 @@
         width:100%;
         height: auto;
     }
-    #row1{
-        margin-left: 17git 0px;
-    }
+   
 
-    #row3{
-        margin-left: 170px;
-        padding-top: 20px;
-    }
+    
 }
 
-/* #row3{
-    margin-left: 170px;
-    padding-top: 20px;
-} */

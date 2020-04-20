@@ -1,6 +1,9 @@
 import React from "react";
 import "../Project/style.css";
 
+// col-xs-12 col-md-4 col-md-offset-2
+// col-xs-12 col-md-4
+
 function Project() {
   return (
     <div className="projectDiv container">
@@ -86,7 +89,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="card col-lg-4 col-12 mx-4">
+        <div className="card col-lg-4 col-12 mb-4 mx-4">
           <img
             src={require("../../Images/empdirectory.jpg")}
             className="card-img-top"
@@ -140,7 +143,7 @@ function Project() {
           </div>
         </div>
 
-        <div className="card col-lg-4 col-12 mx-4">
+        <div className="card col-lg-4 col-12 mb-4 mx-4">
           <img
             src={require("../../Images/workout.jpg")}
             className="card-img-top"
