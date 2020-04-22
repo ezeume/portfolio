@@ -8,9 +8,9 @@ function Contact() {
             
             <div class="row">
                 <div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 mb-4">
-                    <a href="mailto:nelsonezeume@yahoo.com" class="text-dark text-decoration-none" target="_blank">
+                    <a href="mailto:kenesemail@gmail.com" class="text-dark text-decoration-none" target="_blank">
                         <button type="button" class="btn btn-primary btn-lg btn-block">Email:
-                            nelsonezeume@yahoo.com</button>
+                            kenesemail@gmail.com</button>
                     </a>
                 </div>
                 

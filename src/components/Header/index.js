@@ -45,7 +45,7 @@ function Header() {
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="resume.pdf" target="_blank">
+              <a className="nav-link" href="https://docs.google.com/document/d/1Bd8KQRBvm3eSMTGJkNhkzDgKo1sPaXYalCPdSKH79do/view" target="_blank">
                 Resume<span className="sr-only">(current)</span>
               </a>
             </li>
