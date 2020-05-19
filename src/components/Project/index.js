@@ -44,7 +44,7 @@ function Project() {
           <div className="card-body">
             <h5 className="card-title">Car Amplify</h5>
             <a
-              href="https://car-amplify.herokuapp.com/"
+              href="https://hidden-lake-36894.herokuapp.com/"
               target="_blank"
               className="btn btn-primary"
             >

@@ -30,8 +30,8 @@ function About() {
                 technology Enugu, Nigeria..
               </p>
               <p className="card-text2" id="sub2">
-                I am currently enrolled in University of Pennsylvania LPS
-                Full-stack development bootcamp. I am very familiar and
+                I recently completed a 24 weeks Full-stack web development coding bootcamp at the University of Pennsylvania LPS.
+                I am very familiar and
                 experienced with Web application frameworks and have worked with
                 a good number of successful development teams. Values I hold
                 high are reliability, authenticity, loyalty and helping others
