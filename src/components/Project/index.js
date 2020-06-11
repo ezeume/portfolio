@@ -1,9 +1,6 @@
 import React from "react";
 import "../Project/style.css";
 
-// col-xs-12 col-md-4 col-md-offset-2
-// col-xs-12 col-md-4
-
 function Project() {
   return (
     <div className="projectDiv container">
