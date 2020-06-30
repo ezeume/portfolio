@@ -16,7 +16,7 @@ function Project() {
           <div className="card-body">
             <h5 className="card-title">Tossup</h5>
             <a
-              href="https://evening-waters-26047.herokuapp.com/"
+              href="https://tossup-election-sim.herokuapp.com/"
               target="_blank"
               className="btn btn-primary"
             >

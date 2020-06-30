@@ -24,8 +24,8 @@ function About() {
               </h5>
               <p className="card-text1" id="sub1">
                 My name is Nelson Ezeume. I am originally from Nigeria and
-                I live in Norristown, Pennsylvania. I am a self
-                taught, design thinking Front-end developer. I have a bachelors
+                I live in Bridgeport, Pennsylvania. I am a self
+                taught, design thinking Full-stack developer. I have a bachelors
                 degree in Industrial physics from the University of science and
                 technology Enugu, Nigeria. 
               </p>
