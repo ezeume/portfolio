@@ -34,7 +34,7 @@ function Project() {
 
         <div className="card col-lg-4 col-12 mb-4 mx-4">
           <img
-            src={require("../../Images/carApp.jpg")}
+            src={require("../../Images/carpp.jpg")}
             className="card-img-top"
             alt="CarAmp"
           />
@@ -63,7 +63,7 @@ function Project() {
 
       <div className="card col-lg-4 col-12 mb-4 mx-4">
           <img
-            src={require("../../Images/foodfinder.jpg")}
+            src={require("../../Images/fdfndr.jpg")}
             className="card-img-top"
             alt="FoodApp"
           />
