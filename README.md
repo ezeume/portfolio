@@ -4,7 +4,7 @@ It has my projects and contact components.
 
 Link: (https://ezeume.github.io/portfolio/)
 
-![Images](Images/readmeImg.jpg)
+![Images](/readmeImg.jpg)
 
-![Images](Images/readmeImg2.jpg)
+![Images](/readmeImg2.jpg)
 
